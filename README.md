@@ -56,4 +56,5 @@ The dataset consists of Netflix movies and TV shows with attributes like:
 
 ---
 For any questions, feel free to reach out!
+Email - pratikshanikam0510@gmail.com
 
